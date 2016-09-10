@@ -1,14 +1,14 @@
 # Site settings
-title: Clean Blog
+title: Ateneo Renewable Energy and Engineering for Sustainability Group
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
-copyright_name: Your/Project/Corporate Name
+email: ateneo.rees.group@gmail.com
+copyright_name: A*REES
 description: "Write your site description here. It will be used as your sites meta description as well!"
 baseurl: "https://ateneorees.github.io"
 url: "https://ateneorees.github.io"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  StartBootstrap
+twitter_username: 
+github_username:  ateneorees
+facebook_username:  none
 email_username:  ateneo.rees.group@gmail.com
 
 # Google Analytics
